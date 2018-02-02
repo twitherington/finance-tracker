@@ -27,3 +27,10 @@
     background-color: darken(#d9534f, 20%) !important;
   }
 }
+
+.jumbotron {
+  background-image: asset-url('love_to_trade.jpg');
+  background-size: cover;
+  height: 400px;
+  width: 720px;
+}
